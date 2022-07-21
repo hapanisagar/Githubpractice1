@@ -5,5 +5,6 @@ public class Githubpractice1 {
         int a=40;
         int b=100;
         System.out.println(a+b);
+        System.out.println(a);
     }
 }
